@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7bc53d7-4f61-47e6-b2e4-5098cb5ef68d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/HeadisAnalysisFramework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_Calculations/IntrinsicMatrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/O0_CameraCalibration/OnlineCalibration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/O1_BallTracking/BallPosEstimator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/O1_BallTracking/BallPreDetection/CNNPredetector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/O1_BallTracking/BallPreDetection/CVBlobDetector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/O1_BallTracking/BallPreDetection/PredetectorClass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/O1_BallTracking/Table_recognizer/ArucoMarkerDetector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/O1_BallTracking/Table_recognizer/CV_TableDetector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/O1_BallTracking/Table_recognizer/ManualEnterCorners.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/O1_BallTracking/Table_recognizer/NewMethod/ArucoMarcerDetector_new.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/O1_BallTracking/Table_recognizer/NewMethod/Homography.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/O1_BallTracking/Table_recognizer/NewMethod/IntrinsicCameraCalibrator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/O1_BallTracking/Table_recognizer/NewMethod/tools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/O1_BallTracking/Table_recognizer/TableDetectorClass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/O1_BallTracking/Table_recognizer/ZhangMethod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/O1_BallTracking/WorldCoord_Reconstruction/DeepthOptimizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/O1_BallTracking/WorldCoord_Reconstruction/EllipsesParasOptimizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/O1_BallTracking/WorldCoord_Reconstruction/ReconstructorClass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/O1_BallTracking/ball_tracker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/O2_MeasurementAnalysis/FilterData.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/O2_MeasurementAnalysis/FilteringMeasurements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/O2_MeasurementAnalysis/KalmanFilter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/O4_PlayAnalysis/Prognose_try.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/O9_HelpingFunctions/BallPosFromEllipse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/O9_HelpingFunctions/EvoOptimizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/O9_HelpingFunctions/IntegralEllipse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/O9_HelpingFunctions/KMeans.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/O9_HelpingFunctions/PlotVisualizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/O9_HelpingFunctions/SkewMatrices.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestVideo.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1zMFgh5nNQhTxmMJ9I7L3ixVs29" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/O9_HelpingFunctions" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Fabian\PycharmProjects\HeadisAnalysisFramework\O9_HelpingFunctions" />
+      <recent name="C:\Users\Fabian\PycharmProjects\HeadisAnalysisFramework\O1_BallTracking" />
+      <recent name="C:\Users\Fabian\PycharmProjects\HeadisAnalysisFramework\O2_MeasurementAnalysis" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Fabian\PycharmProjects\HeadisAnalysisFramework\O4_PlayAnalysis" />
+      <recent name="C:\Users\Fabian\PycharmProjects\HeadisAnalysisFramework\O1_BallTracking\Table_recognizer\NewMethod" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.IntrinsicCameraCalibrator">
+    <configuration name="ArucoMarcerDetector_new" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HeadisAnalysisFramework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/O1_BallTracking/Table_recognizer/NewMethod" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/O1_BallTracking/Table_recognizer/NewMethod/ArucoMarcerDetector_new.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Homography" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HeadisAnalysisFramework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/O1_BallTracking/Table_recognizer/NewMethod" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/O1_BallTracking/Table_recognizer/NewMethod/Homography.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="IntrinsicCameraCalibrator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HeadisAnalysisFramework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/O1_BallTracking/Table_recognizer/NewMethod" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/O1_BallTracking/Table_recognizer/NewMethod/IntrinsicCameraCalibrator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="IntrinsicMatrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HeadisAnalysisFramework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_Calculations" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_Calculations/IntrinsicMatrix.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ZhangMethod" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HeadisAnalysisFramework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/O1_BallTracking/Table_recognizer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/O1_BallTracking/Table_recognizer/ZhangMethod.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.IntrinsicCameraCalibrator" />
+        <item itemvalue="Python.ZhangMethod" />
+        <item itemvalue="Python.Homography" />
+        <item itemvalue="Python.ArucoMarcerDetector_new" />
+        <item itemvalue="Python.IntrinsicMatrix" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Fabian\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7bc53d7-4f61-47e6-b2e4-5098cb5ef68d" name="Default Changelist" comment="" />
+      <created>1633950162637</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633950162637</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="443" y="25" key="CommitChangelistDialog2" timestamp="1682368024706">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="443" y="25" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1682368024706" />
+    <state x="635" y="324" key="Github.ShareDialog" timestamp="1682369462417">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="635" y="324" key="Github.ShareDialog/0.0.1600.860@0.0.1600.860" timestamp="1682369462417" />
+    <state x="561" y="136" key="Github.UntrackedFilesDialog" timestamp="1682369602104">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="561" y="136" key="Github.UntrackedFilesDialog/0.0.1600.860@0.0.1600.860" timestamp="1682369602104" />
+    <state width="1579" height="357" key="GridCell.Tab.0.bottom" timestamp="1680387677984">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="357" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1680387677984" />
+    <state width="1579" height="357" key="GridCell.Tab.0.center" timestamp="1680387677983">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="357" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1680387677983" />
+    <state width="1579" height="357" key="GridCell.Tab.0.left" timestamp="1680387677983">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="357" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1680387677983" />
+    <state width="1579" height="357" key="GridCell.Tab.0.right" timestamp="1680387677984">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="357" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1680387677984" />
+    <state width="1579" height="357" key="GridCell.Tab.1.bottom" timestamp="1680387677984">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="357" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1680387677984" />
+    <state width="1579" height="357" key="GridCell.Tab.1.center" timestamp="1680387677984">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="357" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1680387677984" />
+    <state width="1579" height="357" key="GridCell.Tab.1.left" timestamp="1680387677984">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="357" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1680387677984" />
+    <state width="1579" height="357" key="GridCell.Tab.1.right" timestamp="1680387677984">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="357" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1680387677984" />
+    <state x="301" y="73" key="SettingsEditor" timestamp="1682368858083">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="73" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1682368858083" />
+    <state width="808" height="438" key="XDebugger.FullValuePopup" timestamp="1680375335068">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="808" height="438" key="XDebugger.FullValuePopup/0.0.1600.860@0.0.1600.860" timestamp="1680375335068" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/O0_CameraCalibration/OnlineCalibration.py</url>
+          <line>86</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/O0_CameraCalibration/OnlineCalibration.py</url>
+          <line>185</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/O1_BallTracking/Table_recognizer/NewMethod/ArucoMarcerDetector_new.py</url>
+          <line>97</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="res.x" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
