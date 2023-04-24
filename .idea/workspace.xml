@@ -2,42 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7bc53d7-4f61-47e6-b2e4-5098cb5ef68d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/HeadisAnalysisFramework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_Calculations/IntrinsicMatrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/O0_CameraCalibration/OnlineCalibration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/O1_BallTracking/BallPosEstimator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/O1_BallTracking/BallPreDetection/CNNPredetector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/O1_BallTracking/BallPreDetection/CVBlobDetector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/O1_BallTracking/BallPreDetection/PredetectorClass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/O1_BallTracking/Table_recognizer/ArucoMarkerDetector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/O1_BallTracking/Table_recognizer/CV_TableDetector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/O1_BallTracking/Table_recognizer/ManualEnterCorners.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/O1_BallTracking/Table_recognizer/NewMethod/ArucoMarcerDetector_new.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/O1_BallTracking/Table_recognizer/NewMethod/Homography.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/O1_BallTracking/Table_recognizer/NewMethod/IntrinsicCameraCalibrator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/O1_BallTracking/Table_recognizer/NewMethod/tools.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/O1_BallTracking/Table_recognizer/TableDetectorClass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/O1_BallTracking/Table_recognizer/ZhangMethod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/O1_BallTracking/WorldCoord_Reconstruction/DeepthOptimizer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/O1_BallTracking/WorldCoord_Reconstruction/EllipsesParasOptimizer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/O1_BallTracking/WorldCoord_Reconstruction/ReconstructorClass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/O1_BallTracking/ball_tracker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/O2_MeasurementAnalysis/FilterData.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/O2_MeasurementAnalysis/FilteringMeasurements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/O2_MeasurementAnalysis/KalmanFilter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/O4_PlayAnalysis/Prognose_try.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/O9_HelpingFunctions/BallPosFromEllipse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/O9_HelpingFunctions/EvoOptimizer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/O9_HelpingFunctions/IntegralEllipse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/O9_HelpingFunctions/KMeans.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/O9_HelpingFunctions/PlotVisualizer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/O9_HelpingFunctions/SkewMatrices.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestVideo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -216,13 +181,25 @@
       <option name="presentableId" value="Default" />
       <updated>1633950162637</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1682369770476</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682369770476</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="443" y="25" key="CommitChangelistDialog2" timestamp="1682368024706">
+    <state x="443" y="25" key="CommitChangelistDialog2" timestamp="1682369767000">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="443" y="25" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1682368024706" />
+    <state x="443" y="25" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1682369767000" />
     <state x="635" y="324" key="Github.ShareDialog" timestamp="1682369462417">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -263,10 +240,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1579" height="357" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1680387677984" />
-    <state x="301" y="73" key="SettingsEditor" timestamp="1682368858083">
+    <state x="301" y="73" key="SettingsEditor" timestamp="1682369893107">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="301" y="73" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1682368858083" />
+    <state x="301" y="73" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1682369893107" />
     <state width="808" height="438" key="XDebugger.FullValuePopup" timestamp="1680375335068">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
